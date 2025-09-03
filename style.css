@@ -1,0 +1,13 @@
+h1{
+    background-color: blueviolet;
+    color: blue;
+}
+pre{
+    color: purple;
+    font-family: monospace;
+}
+img{
+    width: 200px;
+    height: 150px;
+     border-radius: 60px;
+}
